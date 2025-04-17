@@ -1,0 +1,11 @@
+pjsua2
+openai
+google-generativeai
+gTTS
+pydub
+SpeechRecognition
+configparser
+numpy
+soundfile
+webrtcvad-wheels
+pandas
